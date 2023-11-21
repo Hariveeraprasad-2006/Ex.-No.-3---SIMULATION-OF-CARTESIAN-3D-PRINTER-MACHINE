@@ -1,6 +1,4 @@
 # Ex. No.3 - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 
-
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
 
@@ -116,8 +114,5 @@ A spool holder in a 3D printer machine is a component or mechanism designed to h
 A spool, in the context of 3D printing, refers to a cylindrical object on which filament is wound. It is a container or reel-like structure that holds the filament and allows it to unwind smoothly during the printing process
 ## Playing with Axis
 ![image](https://github.com/Hariveeraprasad-2006/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/145049988/e1aeda57-ecf0-456f-8771-19eebe9d19c1)
-### Name: ARIKATLA HARI VEERA PRASAD
-### Register Number:23009466
-
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
